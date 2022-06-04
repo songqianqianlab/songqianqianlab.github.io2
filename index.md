@@ -28,7 +28,7 @@ Bowman Gray Center for Medical Education, 475 Vine St <br/>
             <div id="hide_email">
             Email: <code>qsong@wakehealth.edu</code><br/>
             </div>
-        </div>,
+        </div>
 </div>
 <br/>
 	</div>

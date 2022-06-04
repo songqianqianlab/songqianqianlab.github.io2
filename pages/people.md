@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab members
-description: SONG Lab members
+description: Song Lab members
 ---
 
 

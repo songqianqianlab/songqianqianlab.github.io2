@@ -1,13 +1,13 @@
 ---
 layout: page
-description: I am a tenure-track Assistant Professor of Cancer Biology at Wake Forest University School of Medicine.
+description: I am a tenure-track Assistant Professor of Bioinformatics and Computational Biology at Wake Forest University School of Medicine.
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="https://scholar.google.com/citations?user=wIYviKIAAAAJ&hl=zh-CN&oi=ao">Google Scholar</a></li>
-        <li><a href="https://medicine.iu.edu/faculty/47520/chen-li">Official Website</a></li>
+        <li><a href="https://profiles.wakehealth.edu/display/Person/qsong">Official Website</a></li>
       </ul>
   </div>
 </div>
@@ -18,11 +18,10 @@ description: I am a tenure-track Assistant Professor of Cancer Biology at Wake F
 <div class="container">
     <div class="row-fluid">
         <div class="span5">
-            Li Chen<br/>
-            <a href="https://medicine.iu.edu/faculty/47520/chen-li">Assistant Professor of Biostatistics</a><br/>
-		<a href="https://medicine.iu.edu/biostatistics/">Department of Biostatistics and Health Data Science</a><br/>
-            <a href="https://medicine.iu.edu/research/centers-institutes/computational-biology-bioinformatics/">Center for Computational Biology and Bioinformatics</a><br/>
-		 <a href="https://medicine.iu.edu/">Indiana University School of Medicine</a><br/>
+            Song qianqian<br/>
+            <a href="https://profiles.wakehealth.edu/display/Person/qsong">Assistant Professor of Bioinformatics and Computational Biology</a><br/>
+		<a href="https://school.wakehealth.edu/departments/cancer-biology">Department of Cancer Biology</a><br/>
+		 <a href="https://school.wakehealth.edu/">Wake Forest University School of Medicine</a><br/>
  410 W. 10th Street, HS 5025 <br/>
     Indianapolis, IN 46202<br/>
             USA<br/>

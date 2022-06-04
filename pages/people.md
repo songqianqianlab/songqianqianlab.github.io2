@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab members
-description: Li Lab members
+description: SONG Lab members
 ---
 
 
@@ -10,13 +10,13 @@ description: Li Lab members
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-                 <a href="../assets/pics/Chen.jpg">
-            <img src="../assets/pics/Chen.jpg" height="200" width="150" title="Li Chen" alt="Li Chen"/>
+                 <a href="../assets/pics/Song.jpg">
+            <img src="../assets/pics/Song.jpg" height="200" width="150" title="Song Qianqian" alt="Song Qianqian"/>
         </a>
         </div>
     </div>
 </div>
-Li Chen, Principal Investigator 
+Song Qianqian, Principal Investigator 
 
 
 <br/>

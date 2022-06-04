@@ -1,12 +1,12 @@
 ---
 layout: page
-description: I am a tenure-track Assistant Professor of Biostatistics at Indiana University School of Medicine. I am also a member at Center for Computational Biology and Bioinformatics.
+description: I am a tenure-track Assistant Professor of Cancer Biology at Wake Forest University School of Medicine.
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://scholar.google.com/citations?user=Nk-yRrcAAAAJ&hl=en">Google Scholar</a></li>
+          <li><a href="[https://scholar.google.com/citations?user=Nk-yRrcAAAAJ&hl=en](https://scholar.google.com/citations?user=wIYviKIAAAAJ&hl=zh-CN&oi=ao)">Google Scholar</a></li>
         <li><a href="https://medicine.iu.edu/faculty/47520/chen-li">Official Website</a></li>
       </ul>
   </div>

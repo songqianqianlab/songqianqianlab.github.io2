@@ -18,23 +18,26 @@ description: I am a tenure-track Assistant Professor of Bioinformatics and Compu
 <div class="container">
     <div class="row-fluid">
         <div class="span5">
-            Song qianqian<br/>
+            Song Qianqian<br/>
             <a href="https://profiles.wakehealth.edu/display/Person/qsong">Assistant Professor of Bioinformatics and Computational Biology</a><br/>
 		<a href="https://school.wakehealth.edu/departments/cancer-biology">Department of Cancer Biology</a><br/>
 		 <a href="https://school.wakehealth.edu/">Wake Forest University School of Medicine</a><br/>
- 410 W. 10th Street, HS 5025 <br/>
-    Indianapolis, IN 46202<br/>
+Bowman Gray Center for Medical Education, 475 Vine St <br/>
+    Winston-Salem, NC 27101<br/>
             USA<br/>
             <div id="hide_email">
-            Email: <code>chen61@iu.edu</code><br/>
+            Email: <code>qsong@wakehealth.edu</code><br/>
             </div>
-        </div>
+        </div>,
 </div>
 <br/>
 	</div>
 
 
-I am a tenure-track Assistant Professor of Biostatistics and a member in Center for Computational Biology and Bioinformatics at Indiana University School of Medicine. I received a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University in 2011, and PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University in 2017.
+I am a tenure-track Assistant Professor of Bioinformatics and Computational at Wake Forest University School of Medicine. I received my Ph.D degree in both [Bioinformatics](https://school.wakehealth.edu/research/institutes-and-centers/center-for-biomedical-informatics) from Wake Forest University School of Medicine, and [Mathematics](http://math.english.bnu.edu.cn/) from Beijing Normal University in 2017.
+
+
+a MS in [Biostatistics](http://www.jhsph.edu/departments/biostatistics/index.html) and another MS in [Computer Science](https://www.cs.jhu.edu/) from the Johns Hopkins University in 2011, and PhD in [Computer Science and Informatics](http://www.cs.emory.edu/) from Emory University in 2017.
 
 ### Opening
 My lab now has multiple openings for PhD/MS students and one opening for Postdoc. Interested candidates please refer the [Opening](https://lichen-lab.github.io//pages/opening.html) for how to apply.

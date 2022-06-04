@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Publications
-description: Li Chen's publications
+description: Song Qianqian's publications
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://scholar.google.com/citations?user=Nk-yRrcAAAAJ&hl=en">Google Scholar</a></li>
+          <li><a href="https://scholar.google.com/citations?user=wIYviKIAAAAJ&hl=zh-CN&oi=ao">Google Scholar</a></li>
       </ul>
   </div>
 </div>
@@ -16,14 +16,20 @@ description: Li Chen's publications
 
 ### <a name="articles"></a>Journal articles
 
-**Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee; ^indicates (co-) first author	
-
 #### 2022
 
 **Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup> (2022) Exploiting deep transfer learning for the prediction of functional noncoding variants using genomic sequence  [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac214/6564688?redirectedFrom=fulltext)
 [![TLVar software](icons16/html-icon.png)](https://github.com/lichen-lab/TLVar)
 [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35389435/)
 <!-- * 49 * -->
+
+
+
+Risk and outcome of breakthrough COVID-19 infections in vaccinated patients with cancer: real-world evidence from the National COVID Cohort Collaborative
+
+
+
+
 
 Li Y, Wang F, Teng P, Ku L, **Chen L**, Feng Y, Yao B (2022) Accurate identification of circRNA landscape and complexity reveals their pivotal roles in human oligodendroglia differentiation. [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02621-1)
  [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35130952/)

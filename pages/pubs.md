@@ -17,15 +17,7 @@ description: Song Qianqian's publications
 ### <a name="articles"></a>Journal articles
 
 #### 2022
-
-**Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup> (2022) Exploiting deep transfer learning for the prediction of functional noncoding variants using genomic sequence  [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btac214/6564688?redirectedFrom=fulltext)
-[![TLVar software](icons16/html-icon.png)](https://github.com/lichen-lab/TLVar)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/35389435/)
-<!-- * 49 * -->
-
-
-
-Risk and outcome of breakthrough COVID-19 infections in vaccinated patients with cancer: real-world evidence from the National COVID Cohort Collaborative
+##Song Q##, Bates B, Shao YR, Hsu FC, Liu F, Madhira V, Mitra AK, Bergquist T, Kavuluru R, Li X, Sharafeldin N. [Risk and outcome of breakthrough COVID-19 infections in vaccinated patients with cancer: real-world evidence from the National COVID Cohort Collaborative.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9061155/) Journal of Clinical Oncology. 2022 May 5;40(13):1414. 
 
 
 

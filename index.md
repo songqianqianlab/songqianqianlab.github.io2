@@ -31,17 +31,17 @@ description: I am a tenure-track Assistant Professor of Bioinformatics and Compu
 I am a tenure-track Assistant Professor of Bioinformatics and Computational at Wake Forest University School of Medicine. I received my Ph.D degree in both [Bioinformatics](https://school.wakehealth.edu/research/institutes-and-centers/center-for-biomedical-informatics) from Wake Forest University School of Medicine, and [Mathematics](http://math.english.bnu.edu.cn/) from Beijing Normal University in 2017.
 
 RESEARCH INTERESTS
-• Algorithm and method development for integrative analysis of biological big data 
-o Artificial intelligence and deep learning on heterogeneous data 
-o Network-based algorithms for prognostic biomarker discovery 
-o Latent space data projection for comparative and functional analysis 
-o Cloud computing, GPU computing, and parallel programming for large-scale data integration and visualization 
-• Bioinformatics and computational systems biology for cancer precision medicine
-o Single-cell RNA-seq data analysis and modeling
-o Epigenomic and transcriptomic data analysis and modeling
-o Transcriptional regulation and gene co-expression in cancers
-o Multi-scale systems modeling of disease progression
-o Computational modeling of intracellular signaling and cell-cell interaction using single cell omics data
+• Algorithm and method development for integrative analysis of biological big data <br/>
+o Artificial intelligence and deep learning on heterogeneous data <br/>
+o Network-based algorithms for prognostic biomarker discovery <br/>
+o Latent space data projection for comparative and functional analysis <br/>
+o Cloud computing, GPU computing, and parallel programming for large-scale data integration and visualization <br/>
+• Bioinformatics and computational systems biology for cancer precision medicine<br/>
+o Single-cell RNA-seq data analysis and modeling<br/>
+o Epigenomic and transcriptomic data analysis and modeling<br/>
+o Transcriptional regulation and gene co-expression in cancers<br/>
+o Multi-scale systems modeling of disease progression<br/>
+o Computational modeling of intracellular signaling and cell-cell interaction using single cell omics data<br/>
 
 ###  Contact
 Center for Cancer Genomics and Precision Oncology Wake Forest School of Medicine<br/>

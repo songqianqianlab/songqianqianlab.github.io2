@@ -30,9 +30,9 @@ description: I am a tenure-track Assistant Professor of Bioinformatics and Compu
 I am a tenure-track Assistant Professor of Bioinformatics and Computational at Wake Forest University School of Medicine. I received my Ph.D degree in both [Bioinformatics](https://school.wakehealth.edu/research/institutes-and-centers/center-for-biomedical-informatics) from Wake Forest University School of Medicine, and [Mathematics](http://math.english.bnu.edu.cn/) from Beijing Normal University in 2017.
 
 ###  Contact
-Center for Cancer Genomics and Precision Oncology Wake Forest School of Medicine
-Medical Center Boulevard
-Winston Salem, NC 27157
+Center for Cancer Genomics and Precision Oncology Wake Forest School of Medicine<br/>
+Medical Center Boulevard<br/>
+Winston Salem, NC 27157<br/>
 Email: <code>qsong@wakehealth.edu</code><br/>
 Phone: 336-926-4972
 

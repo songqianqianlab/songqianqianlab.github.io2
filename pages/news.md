@@ -10,7 +10,8 @@ description: Lab's news
 
 * (04/2022) Conguatulations! Our paper "HSP90-CDC37 functions as a chaperone for the oncogenic FGFR3-TACC3 fusion. " has been accepted by Molecular Therapy. [[paper]](https://www.sciencedirect.com/science/article/abs/pii/S1525001622000922?casa_token=uYa8siR5sogAAAAA:IbdsxGPdqbBEvC9hn_AZVu3SYTvUXOb7w-086fVYCvzDN7yrNEirul4Du-toxF-GUfoQlUdDiQ)
 
-* (03/2022) Our paper "Circulating Immune Bioenergetic, Metabolic, and Genetic Signatures Predict Melanoma Patients' Response to Anti–PD-1 Immune Checkpoint Blockade." has been accepted by Clinical Cancer Research. Congratulations to the authors. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9061155/](https://aacrjournals.org/clincancerres/article-abstract/28/6/1192/682031/Circulating-Immune-Bioenergetic-Metabolic-and)
+* (03/2022) Our paper "Circulating Immune Bioenergetic, Metabolic, and Genetic Signatures Predict Melanoma Patients' Response to Anti–PD-1 Immune Checkpoint Blockade." has been accepted by Clinical Cancer Research. Congratulations to the authors. \
+[[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9061155/](https://aacrjournals.org/clincancerres/article-abstract/28/6/1192/682031/Circulating-Immune-Bioenergetic-Metabolic-and)
 
 * (04/2022) Conguatulations! Our paper "Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data." has been accepted. [[paper]](https://arxiv.org/abs/2203.00743)
 

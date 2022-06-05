@@ -22,10 +22,6 @@ description: I am a tenure-track Assistant Professor of Bioinformatics and Compu
             <a href="https://profiles.wakehealth.edu/display/Person/qsong">Assistant Professor of Bioinformatics and Computational Biology</a><br/>
 		<a href="https://school.wakehealth.edu/departments/cancer-biology">Department of Cancer Biology</a><br/>
 		 <a href="https://school.wakehealth.edu/">Wake Forest University School of Medicine</a><br/>
-Bowman Gray Center for Medical Education, 475 Vine St <br/>
-    Winston-Salem, NC 27101<br/>
-            USA<br/>
-            <div id="hide_email">
             </div>
         </div>
 </div>
@@ -34,9 +30,10 @@ Bowman Gray Center for Medical Education, 475 Vine St <br/>
 I am a tenure-track Assistant Professor of Bioinformatics and Computational at Wake Forest University School of Medicine. I received my Ph.D degree in both [Bioinformatics](https://school.wakehealth.edu/research/institutes-and-centers/center-for-biomedical-informatics) from Wake Forest University School of Medicine, and [Mathematics](http://math.english.bnu.edu.cn/) from Beijing Normal University in 2017.
 
 ###  Contact
-Bowman Gray Center for Medical Education, 475 Vine St，Winston-Salem, NC 27101, USA
-
+Center for Cancer Genomics and Precision Oncology Wake Forest School of Medicine
+Medical Center Boulevard
+Winston Salem, NC 27157
 Email: <code>qsong@wakehealth.edu</code><br/>
-
+Phone: 336-926-4972
 
 

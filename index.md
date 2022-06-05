@@ -28,7 +28,6 @@ description: I am a tenure-track Assistant Professor of Bioinformatics and Compu
         </div>
 </div>
 <br/>
-	</div>
 I am a tenure-track Assistant Professor of Bioinformatics and Computational at Wake Forest University School of Medicine. I received my Ph.D degree in both [Bioinformatics](https://school.wakehealth.edu/research/institutes-and-centers/center-for-biomedical-informatics) from Wake Forest University School of Medicine, and [Mathematics](http://math.english.bnu.edu.cn/) from Beijing Normal University in 2017.
 
 ###  Contact

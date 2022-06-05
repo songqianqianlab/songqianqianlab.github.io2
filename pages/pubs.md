@@ -106,9 +106,9 @@ Sun L, **Song Q**, Tian W, Zhang Z. [MiR-506 suppresses tumor progression by rep
 
 #### Before 2019
 
-Berger AC, Korkut A, Kanchi RS, Hegde AM, Lenoir W, Liu W, Liu Y, Fan H, Shen H, Ravikumar V, Rao A. [A comprehensive pan-cancer molecular study of gynecologic and breast cancers.](https://www.sciencedirect.com/science/article/pii/S1535610818301193) Cancer cell. 2018 Apr 9;33(4):690-705.
+Berger AC, Korkut A, Kanchi RS, Hegde AM, Lenoir W, Liu W, Liu Y, Fan H, Shen H, Ravikumar V, Rao A, et al. [A comprehensive pan-cancer molecular study of gynecologic and breast cancers.](https://www.sciencedirect.com/science/article/pii/S1535610818301193) Cancer cell. 2018 Apr 9;33(4):690-705.
 
-Berger AC, Korkut A, Kanchi RS, Hegde AM, Lenoir W, Liu W, Liu Y, Fan H, Shen H, Ravikumar V, Rao A. Cancer Genome Atlas Research N, Weinstein JN, Mills GB, Levine DA, Akbani R. [A comprehensive pan-cancer molecular study of gynecologic and breast cancers.](https://www.sciencedirect.com/science/article/pii/S1535610818301193) Cancer Cell. 2018;33(4):690-705.
+Berger AC, Korkut A, Kanchi RS, Hegde AM, Lenoir W, Liu W, Liu Y, Fan H, Shen H, Ravikumar V, Rao A, Cancer Genome Atlas Research N, Weinstein JN, Mills GB, Levine DA, Akbani R, et al. [A comprehensive pan-cancer molecular study of gynecologic and breast cancers.](https://www.sciencedirect.com/science/article/pii/S1535610818301193) Cancer Cell. 2018;33(4):690-705.
 
 **Song** Q, Zhang W, Sun Y. [Haploinsufficiency and mutation are two sides of the cancer coin as cause and therapeutics target. Transl Cancer Res.](https://www.researchgate.net/profile/Qianqian-Song-3/publication/317280881_Haploinsufficiency_and_mutation_are_two_sides_of_the_cancer_coin_as_cause_and_therapeutics_target/links/60ac06f092851ca9dce1d83b/Haploinsufficiency-and-mutation-are-two-sides-of-the-cancer-coin-as-cause-and-therapeutics-target.pdf) 2017 May 1;6:S590-3.
 

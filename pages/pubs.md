@@ -94,32 +94,15 @@ Zhang J, Wu M, Xu Y, **Song Q**, Zheng W. [Secretory Clusterin: A Promising Targ
 
 #### 2019
 
-Sun Z^, **Chen L^**, Xin H, Jiang Y, Huang Q, Cillo A, Tabib T, Kolls J, Bruno T, Lafyatis B, Vignali D, Chen K, Ding Y, Hu M, Chen W (2019).
-A Bayesian mixture model for clustering droplet-based single cell transcriptomic data from population studies
-[Nature Communications](https://www.nature.com/articles/s41467-019-09639-3)
-[![BAMMSC software](icons16/html-icon.png)](https://github.com/lichen-lab/BAMMSC)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30967541/)
-<!-- * 28* -->
+Li T, Mehraein-Ghomi F, Namjoshi SV, **Song Q**, Ballard EA, Forbes ME, Chou PC, Yang X, Zhang W. [Abstract B036: Targeting Hsp90-Cdc37 complex in glioma harboring FGFR3-TACC3.](https://aacrjournals.org/mct/article/18/12_Supplement/B036/239635/Abstract-B036-Targeting-Hsp90-Cdc37-complex-in)
 
-Urrutia E, **Chen L**, Zhou H, Jiang Y (2019).
-Destin: toolkit for single-cell analysis of chromatin accessibility 
-[Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz141/5367832)
-[![Destin software](icons16/html-icon.png)](https://github.com/urrutiag/destin)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30821321/)
-<!-- * 27 * -->
+Zhang J, **Song Q**, Liu J, Lu L, Xu Y, Zheng W. [Cyclin-dependent kinase regulatory subunit 2 indicated poor prognosis and facilitated aggressive phenotype of hepatocellular carcinoma.](https://www.hindawi.com/journals/dm/2019/8964015/) Disease markers. 2019 Oct 22;2019.
 
-Hohmann L, Hastings T, Ha D, Garza K, Huston S, **Chen L**, Westrick S (2019). 
-Impact of a multi-component immunization intervention on pneumococcal and herpes zoster vaccinations: A randomized controlled trial of community pharmacies in 2 states 
-[Research in Social and Administrative Pharmacy](https://www.sciencedirect.com/science/article/pii/S1551741118307472)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30777645/)
-<!-- * 26 * -->
+Sun L, **Song Q**, Tian W, Zhang Z. [MiR-506 suppresses tumor progression by reprogramming macrophage polarization in pancreatic ductal adenocarcinoma.](https://aacrjournals.org/cancerres/article/79/13_Supplement/3556/635303/Abstract-3556-MiR-506-suppresses-tumor-progression)
 
-**Chen L<sup>&sect;</sup>**, Wang Y<sup>&dagger;</sup>, Yao B, Mitra AK, Wang X, Qin X (2019)
-TIVAN: Tissue-specific cis-eQTL single nucleotide variant annotation and prediction
-[Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/bty872/5126236)
-[![TIVAN software](icons16/html-icon.png)](https://github.com/lichen-lab/TIVAN)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/30304335/)
-<!-- * 25 * -->
+**Song Q**, Hawkins GA, Wudel L, Chou PC, Forbes E, Pullikuth AK, Liu L, Jin G, Craddock L, Topaloglu U, Kucera G. [Dissecting intratumoral cell-cell interactions in myeloid reprogramming by single cell RNA-seq.](https://aacrjournals.org/cancerres/article/79/13_Supplement/3391/635208/Abstract-3391-Dissecting-intratumoral-cell-cell)
+
+**Song Q**, Hawkins GA, Wudel L, Chou PC, Forbes E, Pullikuth AK, Liu L, Jin G, Craddock L, Topaloglu U, Kucera G. [Dissecting intratumoral myeloid cell plasticity by single cell RNA‐seq.](https://onlinelibrary.wiley.com/doi/full/10.1002/cam4.2113) Cancer medicine. 2019 Jun;8(6):3072-85.
 
 #### 2018
 

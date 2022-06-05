@@ -78,55 +78,19 @@ Zhang J, **Song Q**, Wu M, Zheng W. [The emerging roles of exosomes in the chemo
 
 #### 2020
 
-**Chen L**, Li C, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Qian J (2020) Oral Generic Tacrolimus Initiation and Substitution in The Medicaid Population: A New User Cohort Study [Current Medical Research & Opinion](https://www.tandfonline.com/doi/full/10.1080/03007995.2020.1793750)
- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32644886/)
-<!-- * 38 * -->
+Bian S, Ni W, Zhu M, **Song Q**, Zhang J, Ni R, Zheng W. [Identification and validation of the N6-methyladenosine RNA methylation regulator YTHDF1 as a novel prognostic marker and potential target for hepatocellular carcinoma.](https://www.frontiersin.org/articles/10.3389/fmolb.2020.604766/full) Frontiers in molecular biosciences. 2020 Dec 10;7:384.
 
-Mei W, Jiang Z, Chen Y, **Chen L**, Sancar A, Jiang Y (2020) Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/doi/10.1093/bib/bbaa135/5872170?redirectedFrom=fulltext)
- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32672832/)
-<!-- * 37 * -->
+Zhang J, Gu C, **Song Q**, Zhu M, Xu Y, Xiao M, Zheng W. [Identifying cancer-associated fibroblasts as emerging targets for hepatocellular carcinoma.](https://link.springer.com/article/10.1186/s13578-020-00488-y) Cell & Bioscience. 2020 Dec;10(1):1-5.
 
-Mitra AK, Kumar H, Ramakrishnan V, **Chen L**, Kumar S, Rajkumar SV, Van Ness B (2020) In vitro and ex vivo gene expression profiling reveals differential kinetic response of HSPs and UPR genes are associated with PI-resistance in multiple myeloma [Blood Cancer Journal](https://www.nature.com/articles/s41408-020-00344-9)
- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32724061/)
-<!-- * 36 * -->
+**Song Q**, Forbes E, Miller LD, Triozzi PL, Liu L, Zhang W, Soto-Pantoja DR. [Single-cell liquid biopsy reveals circulating heterogeneity and converging subpopulations in relation to immunotherapy response in melanoma.](https://aacrjournals.org/cancerres/article/80/21_Supplement/PO-127/645634/Abstract-PO-127-Single-cell-liquid-biopsy-reveals) InCANCER RESEARCH 2020 Nov 1 (Vol. 80, No. 21). 615 CHESTNUT ST, 17TH FLOOR, PHILADELPHIA, PA 19106-4404 USA: AMER ASSOC CANCER RESEARCH.
 
-Li C, **Chen L**, Huo N, Mishuk AU, Hansen RA, Harris I, Kiptanui Z, Wang Z, Qian J (2020) Generic escitalopram initiation and substitution among Medicare beneficiaries: A new user cohort study [Plos One](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232226)
- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32353006/)
-<!-- * 35 * -->
+**Song Q**, Forbes E, Miller LD, Triozzi PL, Liu L, Zhang W, Soto-Pantoja DR. [Abstract PO-127: Single-cell liquid biopsy reveals circulating heterogeneity and converging subpopulations in relation to immunotherapy response in melanoma.](https://aacrjournals.org/cancerres/article/80/21_Supplement/PO-127/645634/Abstract-PO-127-Single-cell-liquid-biopsy-reveals)
 
-Wang Y<sup>&dagger;</sup>, Bhattacharya T, Jiang Y, Qin X, Wang Y, Liu Y, Saykin AJ, **Chen L<sup>&sect;</sup>** (2020) A novel deep learning method for predictive modeling of microbiome data [Briefings in Bioinformatics](https://academic.oup.com/bib/advance-article-abstract/doi/10.1093/bib/bbaa073/5835556?redirectedFrom=fulltext)
-[![MDeep software](icons16/html-icon.png)](https://github.com/lichen-lab/MDeep)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32406914/)
-<!-- * 34 * -->
+**Song Q**, Su J, Miller LD, Zhang W. [Automatic detection of consensus gene clusters across multiple single-cell datasets.](https://aacrjournals.org/cancerres/article/80/16_Supplement/4410/643317/Abstract-4410-Automatic-detection-of-consensus)
 
-**Chen L<sup>&sect;</sup>** (2020) powmic: an R package for power assessment in microbiome case-control studies [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btaa197/5809526)
-[![powmic software](icons16/html-icon.png)](https://github.com/lichen-lab/powmic)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/32186690/)
-<!-- * 33 * -->
+Zhang J, Wu M, Xu Y, **Song Q**, Zheng W. [Secretory Clusterin: A Promising Target for Chemoresistance of Hepatocellular Carcinoma.](https://www.ingentaconnect.com/content/ben/mrmc/2020/00000020/00000012/art00010) Mini Reviews in Medicinal Chemistry. 2020 Jul 1;20(12):1153-65.
 
-Huo N, **Chen L**, Ullah Mishuk A, Li C, Hansen RA, Harris I, Kiptanui Z, Wang Z, Dutcher SK, Qian J (2020) Generic levothyroxine initiation and substitution among Medicare and Medicaid populations: a new user cohort study [Endocrine](https://link.springer.com/article/10.1007%2Fs12020-020-02211-w)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/31993992/)
-<!-- * 32 * -->
-
-Yang G, Ma A, Qin ZS<sup>&sect;</sup>, **Chen L<sup>&sect;</sup>** (2020)
-Application of topic models to a compendium of ChIP-Seq datasets uncovers recurrent transcriptional regulatory modules
-[Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz975/5695705)
-[![tfLDA software](icons16/html-icon.png)](https://github.com/lichen-lab/tfLDA)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/31899481/)
-<!-- * 31 * -->
-
-**Chen L<sup>&sect;</sup>**, Wang F, Bruggeman E, Li C<sup>&dagger;</sup>, Yao B<sup>&sect;</sup> (2020)
-circMeta: a unified computational framework for genomic feature annotation and differential expression analysis of circular RNAs
-[Bioinformatics](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz606/5543088)
-[![circMeta software](icons16/html-icon.png)](https://github.com/lichen-lab/circMeta)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/31373611/)
-<!-- * 30 * -->
-
-Qin L, Xu Q, Li Z, **Chen L**, Li Y, Yang N, Liu Z, Guo J, Shen L, Allen GE, Chen C, Ma C, Wu H, Zhu X, Jin P, Tang B (2020)
-Ethnicity-specific and overlapping alterations of brain hydroxymethylome in Alzheimer’s disease
-[Human Molecular Genetics](https://academic.oup.com/hmg/advance-article-abstract/doi/10.1093/hmg/ddz273/5650471)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/31814020/)
-<!-- * 29 * -->
+**Song Q**, Su J. [DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence.](https://academic.oup.com/bib/article/22/5/bbaa414/6105942?login=true) Briefings in Bioinformatics. 2021 Sep;22(5):bbaa414.
 
 #### 2019
 

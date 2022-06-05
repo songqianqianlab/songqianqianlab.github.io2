@@ -14,6 +14,6 @@ description: Lab's news
 
 * (03/2022) Conguatulations! Our paper "Uncovering the dynamic effects of DEX treatment on lung cancer by integrating bioinformatic inference and multiscale modeling of scRNA-seq and proteomics data" has been accepted. [[paper]](https://arxiv.org/abs/2203.00743)
 
-* (02/2022) Conguatulations! Our paper "Intrapleural nano-immunotherapy promotes innate and adaptive immune responses to enhance anti-PD-L1 therapy for malignant pleural effusion" has been accepted by Nature nanotechnology. [[paper]]([https://arxiv.org/abs/2203.00743](https://www.nature.com/articles/s41565-021-01032-w))
+* (02/2022) Conguatulations! Our paper "Intrapleural nano-immunotherapy promotes innate and adaptive immune responses to enhance anti-PD-L1 therapy for malignant pleural effusion" has been accepted by Nature nanotechnology. [[paper]]([https://arxiv.org/abs/2203.00743](https://www.nature.com/articles/s41565-021-01032-w)
 
 * (05/2022) Our paper "Uncovering the system vulnerability and criticality of human brain under evolving neuropathological events in Alzheimer’s Disease. " has been accepted. Congratulations to the authors. [[paper]](https://arxiv.org/abs/2201.08941)

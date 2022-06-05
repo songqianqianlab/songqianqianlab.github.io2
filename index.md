@@ -36,6 +36,7 @@ o Artificial intelligence and deep learning on heterogeneous data <br/>
 o Network-based algorithms for prognostic biomarker discovery <br/>
 o Latent space data projection for comparative and functional analysis <br/>
 o Cloud computing, GPU computing, and parallel programming for large-scale data integration and visualization <br/>
+
 • Bioinformatics and computational systems biology for cancer precision medicine<br/>
 o Single-cell RNA-seq data analysis and modeling<br/>
 o Epigenomic and transcriptomic data analysis and modeling<br/>

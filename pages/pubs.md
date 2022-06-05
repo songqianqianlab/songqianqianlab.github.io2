@@ -38,41 +38,43 @@ Zhang J, Wang L, **Song Q**, Xiao M, Gao J, Cao X, Zheng W. [Organoids in recapi
 Bian S, Ni W, Zhu M, Zhang X, Qiang Y, Zhang J, Ni Z, Shen Y, Qiu S, **Song Q**, Xiao M. [Flap endonuclease 1 Facilitated Hepatocellular Carcinoma Progression by Enhancing USP7/MDM2-mediated P53 Inactivation.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8771828/) International journal of biological sciences. 2022;18(3):1022.
 
 #### 2021
+Sharafeldin N, Bates B, **Song Q**, Madhira V, Shao YR, Liu F, Bergquist T, Su J, Topaloglu U. [Reply to K. Takada et al.](https://ascopubs.org/doi/full/10.1200/JCO.21.02150) Journal of Clinical Oncology. 2021 Dec 10;39(35):3997-8.
 
-Li C, **Chen L**, Chou C, Ngorsuraches S, Qian J (2021) Using Machine Learning Approaches to Predict Short-Term Risk of Cardiotoxicity Among Patients with Colorectal Cancer after Starting Fluoropyrimidine-based Chemotherapy. [Cardiovascular Toxicology](https://link.springer.com/article/10.1007/s12012-021-09708-4) 
-<!-- * 47 * -->
+Pullikuth AK, Routh ED, Zimmerman KD, Chifman J, Chou JW, Soike MH, Jin G, Su J, **Song Q**, Black MA, Bedognetti D. [Bulk and Single-Cell Profiling of Breast Tumors Identifies TREM-1 as a Dominant Immune Suppressive Marker Associated With Poor Outcomes.](https://europepmc.org/article/pmc/pmc8692779) Frontiers in oncology. 2021 Dec 8;11:734959-.
 
-**Chen L**, Li MJ (2021) Editorial: Deciphering Noncoding Regulatory Variants Computational and Functional Validation. [Frontiers in Bioengineering and Biotechnology](https://www.frontiersin.org/articles/10.3389/fbioe.2021.769614/full)
-<!-- * 46 * -->
+Zhu M, Wu M, Bian S, **Song Q**, Xiao M, Huang H, You L, Zhang J, Zhang J, Cheng C, Ni W. [DNA primase subunit 1 deteriorated progression of hepatocellular carcinoma by activating AKT/mTOR signaling and UBE2C-mediated P53 ubiquitination.](https://link.springer.com/article/10.1186/s13578-021-00555-y) Cell & bioscience. 2021 Dec;11(1):1-9.
 
-Kim H, Kang Y, Li Y, **Chen L**, Lin L, Johnson ND, Zhu D, Robinson MH, McSwain L, Barwick BG, Yuan X, Liao X, Zhao J, Zhang Z, Shu Q, Chen J, Allen EG, Kenney AM, Castellino RC, Van Meir EG, Conneely KN, Vertino PM, Jin P, Li J (2021) Ten-eleven translocation protein 1 modulates medulloblastoma progression. [Genome Biology](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02352-9)
- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33926529/)
- [![Data](icons16/data-icon.png)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE74336)
-<!-- * 45 * -->
+Palma E, Ballard A, Forbes E, Vaidya R, Powell BL, **Song Q**, Zhang W, Pardee TS. [Devimistat in Combination with Bendamustine Potently Inhibits Tumor Growth and Promotes CD8+ T Cell Tumor Infiltration in a Syngeneic Mouse Model of CD30+ T-Cell Lymphoma.](https://www.sciencedirect.com/science/article/pii/S0006497121042166?casa_token=4cGQEVHkeJAAAAAA:QqjY2EEoIUUL27hFvxXxmSw4wYiZb3X9eZrCt0CJn08308QmldpWHHNU4aoytZ9113vMbE23sQ)Blood. 2021 Nov 23;138:2263.
 
-Wang Y<sup>&dagger;</sup>, Jiang Y, Yao B, Huang K, Liu Y, Wang Y, Qin X, Saykin AJ, **Chen L<sup>&sect;</sup>** (2021) WEVar: a novel statistical learning framework for predicting noncoding regulatory variants. [Briefings in Bioinformatics](https://academic.oup.com/bib/article-abstract/22/6/bbab189/6279833?redirectedFrom=fulltext)
-[![MDeep software](icons16/html-icon.png)](https://github.com/lichen-lab/WEVar)
-[![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/34021560/)
-<!-- * 44 * -->
+Li T, Mehraein-Ghomi F, Forbes M, Namjoshi S, Ballard E, **Song Q**, Chou P, Wang X, Yang X, Zhang W. JS01. 3. [A Oncogenic chaperoning of Hsp90 in glioma with FGFR3-TACC3.](https://academic.oup.com/neuro-oncology/article-abstract/23/Supplement_2/ii4/6366649) Neuro-Oncology. 2021 Sep;23(Supplement_2):ii4-5.
 
-Li C, Ngorsuraches S, Chou C, **Chen L**, Qian J (2021) Risk Factors of Fluoropyrimidine Induced Cardiotoxicity Among Cancer Patients: A Systematic Review and Meta-analysis. [Critical Reviews in Oncology/Hematology](https://www.sciencedirect.com/science/article/abs/pii/S1040842821001347)
-<!-- * 43 * -->
+Zhang T, Yang B, **Song Q**, Su J. [Flexible Principal Component Analysis for Exponential Family Distributions.](https://arxiv.org/abs/2108.06876) arXiv preprint arXiv:2108.06876. 2021 Aug 16.
 
-Kuehner JN, Chen J, Bruggeman EC, Wang F, Li Y, Xu C, McEachin ZT, Li Z, **Chen L**, Hales CM, Wen Z, Yang J, Yao B (2021) 5-hydroxymethylcytosine is dynamically regulated during forebrain organoid development and aberrantly altered in Alzheimer’s disease. [Cell Reports](https://www.cell.com/cell-reports/pdfExtended/S2211-1247(21)00358-2)
- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33910000/)
- [![Data](icons16/data-icon.png)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE151818)
-<!-- * 42 * -->
+Zhu M, Huang Y, Bian S, **Song Q**, Zhang J, Zheng W, Cheng C. [Organoids: Current Implications and Pharmaceutical Applications in Liver Diseases.](https://www.ingentaconnect.com/content/ben/cmp/2021/00000014/00000004/art00005) Current Molecular Pharmacology. 2021 Aug 1;14(4):498-508.
 
-Mishuk AU, **Chen L**, Li C, Huo N, Hansen RA, Harris I, Kiptanui Z, Qian J (2021) Patient factors associated with oral generic olanzapine initiation and substitution among Medicaid beneficiaries: a new user cohort study. [Current Medical Research and Opinion](https://www.tandfonline.com/doi/abs/10.1080/03007995.2021.1882413?journalCode=icmo20)
- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33507825/)
-<!-- * 41 * -->
+**Song Q**, Su J, Zhang W. [scGCN is a graph convolutional networks algorithm for knowledge transfer in single cell omics.](https://www.nature.com/articles/s41467-021-24172-y) Nature Communications. 2021 Jun 22;12(1):1-1.
 
-Brothwell J, Griesenauer B, **Chen L** and Spinola SM (2021) Interactions of the Skin Pathogen Haemophilus ducreyi With the Human Host [Frontiers in Immunology](https://doi.org/10.3389/fimmu.2020.615402)
- [![PubMed](icons16/pubmed-icon.png)](https://pubmed.ncbi.nlm.nih.gov/33613541/)
-<!-- * 40 * -->
+Sharafeldin N, Bates B, **Song Q**, Madhira V, Yan Y, Dong S, Lee E, Kuhrt N, Shao YR, Liu F, Bergquist T. [Outcomes of COVID-19 in patients with cancer: report from the National COVID Cohort Collaborative (N3C).](https://www.ingentaconnect.com/content/wk/jco/2021/00000039/00000020/art00002) Journal of Clinical Oncology. 2021 Jul 10;39(20):2232-46.
 
-Mishuk AU, **Chen L**, Gaillard P, Westrick S, Hansen RA, Qian J (2021) National Trends in Prescription Proton Pump Inhibitors (PPI) Use and Expenditure in the U.S. in 2002-2017 [Journal of the American Pharmacists Association](https://www.sciencedirect.com/science/article/pii/S1544319120304763)
-<!-- * 39 * -->
+Sharafeldin N, Su J, Madhira V, **Song Q**, Lee E, Kuhrt N, Liu F, Bergquist T, Guinney J, Bates B, Topaloglu U. [Outcomes of COVID-19 in cancer patients: Report from the National COVID Cohort Collaborative (N3C).](https://ascopubs.org/doi/abs/10.1200/JCO.2021.39.15_suppl.1500)
+
+Su J, **Song Q**, Qasem S, O’Neill S, Lee J, Furdui CM, Pasche B, Metheny-Barlow L, Masters AH, Lo HW, Xing F. [Multi-omics analysis of brain metastasis outcomes following craniotomy.](https://www.frontiersin.org/articles/10.3389/fonc.2020.615472/full) Frontiers in Oncology. 2021 Apr 6;10:3346.
+
+**Song Q**, Su J, Miller LD, Zhang W. [scLM: automatic detection of consensus gene clusters across multiple single-cell datasets.](https://www.sciencedirect.com/science/article/pii/S167202292030142X) Genomics, proteomics & bioinformatics. 2021 Apr 1;19(2):330-41.
+
+Zheng W, Zhang J, **Song Q**, Xu Y, Zhu M, Ma J. [Rac Family Small GTPase 3 Correlates with Progression and Poor Prognosis in Bladder Cancer.](https://www.liebertpub.com/doi/full/10.1089/dna.2020.5613?casa_token=CEkLV6Q0dJIAAAAA%3Arwu2enn5C5cLlg3OaFY5hUXrVqdDB3In9h_0W8yfqM8R_pxe9dnRmB599g2QhFVIPFrq6Xb9kRmeRQ) DNA and Cell Biology. 2021 Mar 1;40(3):469-81.
+
+Sun L, Zhang X, **Song Q**, Liu L, Forbes E, Tian W, Zhang Z, Kang YA, Wang H, Fleming JB, Pasche BC. [IGFBP2 promotes tumor progression by inducing alternative polarization of macrophages in pancreatic ductal adenocarcinoma through the STAT3 pathway.](https://www.sciencedirect.com/science/article/pii/S0304383520306583?casa_token=ffGIdgW-vnQAAAAA:p1ZmxnH5y8GfQIjdARuxmVkY4tl8Bvn2aUeQo4BLIwHNEkU5ygqzxRzYtOS9HLYnuVWtb1Nulw) Cancer Letters. 2021 Mar 1;500:132-46.
+
+Lu Z, Rajan SA, **Song Q**, Zhao Y, Wan M, Aleman J, Skardal A, Bishop C, Atala A, Lu B. [3D scaffold-free microlivers with drug metabolic function generated by lineage-reprogrammed hepatocytes from human fibroblasts. Biomaterials.](https://www.sciencedirect.com/science/article/pii/S0142961221000193?casa_token=9AQJVbF81iAAAAAA:wzdMdkE_SCJcEURR7b6ME6k481mIZ6kWBuH33xvgP8B7Gb3NmZl9gKTMqp8uXOnMuXnQ5YtUTg) 2021 Feb 1;269:120668.
+
+Sharafeldin N, Bates B, **Song Q**, Madhira V, Shao YR, Liu F, Bergquist T, Su J, Topaloglu U. [correspondence Reply to K. Takada et al.](https://www.researchgate.net/profile/Qianqian-Song-3/publication/355161555_Reply_to_K_Takada_et_al/links/61defb91323a2268f99d7e47/Reply-to-K-Takada-et-al.pdf) Oncol. 2021;39:2232-46.
+
+**Song Q**, Su J. [DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence.](https://academic.oup.com/bib/article/22/5/bbaa414/6105942?login=true) Briefings in Bioinformatics. 2021 Sep;22(5):bbaa414.
+
+Ni W, Bian S, Zhu M, **Song Q**, Zhang J, Xiao M, Zheng W. [Identification and validation of ubiquitin-specific proteases as a novel prognostic signature for hepatocellular carcinoma.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7949004/) Frontiers in oncology. 2021;11.
+
+Zhang J, **Song Q**, Wu M, Zheng W. [The emerging roles of exosomes in the chemoresistance of hepatocellular carcinoma.](https://www.ingentaconnect.com/content/ben/cmc/2021/00000028/00000001/art00008) Current medicinal chemistry. 2021 Jan 1;28(1):93-109.
 
 #### 2020
 

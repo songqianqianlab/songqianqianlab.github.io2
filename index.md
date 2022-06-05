@@ -33,7 +33,8 @@ I am a tenure-track Assistant Professor of Bioinformatics and Computational at W
 ###  Contact
 Center for Cancer Genomics and Precision Oncology Wake Forest School of Medicine<br/>
 Medical Center Boulevard<br/>
-Winston Salem, NC 27157<br/>
+Winston Salem, NC 27157
+
 Email: qsong@wakehealth.edu<br/>
 Phone: 336-926-4972
 

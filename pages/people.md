@@ -16,7 +16,7 @@ description: Song Lab members
         </div>
     </div>
 </div>
-Song Qianqian, Principal Investigator 
+Qianqian Song, Principal Investigator 
 
 
 <br/>

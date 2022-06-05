@@ -17,7 +17,7 @@ description: Song Qianqian's publications
 ### <a name="articles"></a>Journal articles
 
 #### 2022
-##Song Q##, Bates B, Shao YR, Hsu FC, Liu F, Madhira V, Mitra AK, Bergquist T, Kavuluru R, Li X, Sharafeldin N. [Risk and outcome of breakthrough COVID-19 infections in vaccinated patients with cancer: real-world evidence from the National COVID Cohort Collaborative.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9061155/) Journal of Clinical Oncology. 2022 May 5;40(13):1414. 
+**Song Q**, Bates B, Shao YR, Hsu FC, Liu F, Madhira V, Mitra AK, Bergquist T, Kavuluru R, Li X, Sharafeldin N. [Risk and outcome of breakthrough COVID-19 infections in vaccinated patients with cancer: real-world evidence from the National COVID Cohort Collaborative.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9061155/) Journal of Clinical Oncology. 2022 May 5;40(13):1414. 
 
 
 

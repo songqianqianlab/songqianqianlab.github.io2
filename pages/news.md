@@ -17,3 +17,15 @@ description: Lab's news
 * (02/2022) Conguatulations! Our paper "Intrapleural nano-immunotherapy promotes innate and adaptive immune responses to enhance anti-PD-L1 therapy for malignant pleural effusion" has been accepted by Nature nanotechnology. [[paper]](https://www.nature.com/articles/s41565-021-01032-w)
 
 * (05/2022) Our paper "Uncovering the system vulnerability and criticality of human brain under evolving neuropathological events in Alzheimer’s Disease. " has been accepted. Congratulations to the authors. [[paper]](https://arxiv.org/abs/2201.08941)
+
+
+INVITED PRESENTATIONS
+* (2022) “Data-driven Informatics Research for Precision Oncology". The University of Alabama at Birmingham, Informatics Institute PowerTalk Seminar Series
+* (2021) “Real World Data to Empower Observational Research: an N3C and OMOP use case” Wake Forest Center for Biomedical Informatics Colloquium
+* (2020) “Statistical modeling and leveraging of single cell data” at the ICCABS2020
+* (2020) “Automatic detection of consensus gene clusters across multiple single-cell datasets” at the Mini-symposium of Director’s Excellence in Cancer Research Award for Trainees
+* (2020) “Single-cell analysis predicts immunotherapy response in melanoma” at the Annual Research Core Symposium, Wake Forest Baptist Medical Center
+* (2020) “scLM: a bioinformatics tool designed for co-expression analysis using single cell omics data” at the Research Progress Report Meeting. Department of Cancer Biology, Wake Forest University
+* (2019) “Single-cell RNA-seq profiling and its biological applications” at the Lung Disease Orientated Team (DOT) meeting. Comprehensive Cancer Center, Wake Forest School of Medicine
+* (2019) “Single-cell Secondary Analysis” at the First Omics Workshop. Department of Cancer Biology, Wake Forest University
+* (2019) “Bioinformatics applications in single cell data” at the Research Progress Report Meeting. Department of Cancer Biology, Wake Forest University

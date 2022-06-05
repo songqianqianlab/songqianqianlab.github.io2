@@ -19,7 +19,7 @@ description: Lab's news
 * (05/2022) Our paper "Uncovering the system vulnerability and criticality of human brain under evolving neuropathological events in Alzheimer’s Disease. " has been accepted. Congratulations to the authors. [[paper]](https://arxiv.org/abs/2201.08941)
 
 
-INVITED PRESENTATIONS
+### INVITED PRESENTATIONS
 * (2022) “Data-driven Informatics Research for Precision Oncology". The University of Alabama at Birmingham, Informatics Institute PowerTalk Seminar Series
 * (2021) “Real World Data to Empower Observational Research: an N3C and OMOP use case” Wake Forest Center for Biomedical Informatics Colloquium
 * (2020) “Statistical modeling and leveraging of single cell data” at the ICCABS2020

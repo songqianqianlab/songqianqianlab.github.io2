@@ -18,7 +18,7 @@ description: I am a tenure-track Assistant Professor of Bioinformatics and Compu
 <div class="container">
     <div class="row-fluid">
         <div class="span5">
-            Song Qianqian<br/>
+            Qianqian Song<br/>
             <a href="https://profiles.wakehealth.edu/display/Person/qsong">Assistant Professor of Bioinformatics and Computational Biology</a><br/>
 		<a href="https://school.wakehealth.edu/departments/cancer-biology">Department of Cancer Biology</a><br/>
 		 <a href="https://school.wakehealth.edu/">Wake Forest University School of Medicine</a><br/>

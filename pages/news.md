@@ -16,8 +16,17 @@ description: Lab's news
 
 * (02/2022) Conguatulations! Our paper "Intrapleural nano-immunotherapy promotes innate and adaptive immune responses to enhance anti-PD-L1 therapy for malignant pleural effusion" has been accepted by Nature nanotechnology. [[paper]](https://www.nature.com/articles/s41565-021-01032-w)
 
-* (05/2022) Our paper "Uncovering the system vulnerability and criticality of human brain under evolving neuropathological events in Alzheimer’s Disease. " has been accepted. Congratulations to the authors. [[paper]](https://arxiv.org/abs/2201.08941)
+* (01/2022) Our paper "Uncovering the system vulnerability and criticality of human brain under evolving neuropathological events in Alzheimer’s Disease. " has been accepted. Congratulations to the authors. [[paper]](https://arxiv.org/abs/2201.08941)
 
+* (01/2022) Our paper "Intrapleural nano-immunotherapy promotes innate and adaptive immune responses to enhance anti-PD-L1 therapy for malignant pleural effusion. " has been accepted. Congratulations to the authors. [[paper]](https://www.nature.com/articles/s41565-021-01032-w)
+
+* (01/2022) Our paper "Organoids in recapitulating tumorigenesis driven by risk factors: Current trends and future perspectives. " has been accepted by International Journal of Biological Sciences.. Congratulations to the authors. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9066109/)
+
+* (01/2022) Our paper "Intrapleural nano-immunotherapy promotes innate and adaptive immune responses to enhance anti-PD-L1 therapy for malignant pleural effusion. " has been accepted. Congratulations to the authors. [[paper]](https://www.nature.com/articles/s41565-021-01032-w)
+
+* (01/2022) Our paper "Single-Cell RNA-Seq Technologies and Computational Analysis Tools: Application in Cancer Research. " has been accepted. Congratulations to the authors. [[paper]](https://www.nature.com/articles/s41565-021-01032-w](https://link.springer.com/protocol/10.1007/978-1-0716-1896-7_23)
+
+* (01/2022) Our paper "Flap endonuclease 1 Facilitated Hepatocellular Carcinoma Progression by Enhancing USP7/MDM2-mediated P53 Inactivation." has been accepted by International journal of biological sciences. Congratulations to the authors. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8771828/)
 
 ### INVITED PRESENTATIONS
 * (2022) “Data-driven Informatics Research for Precision Oncology". The University of Alabama at Birmingham, Informatics Institute PowerTalk Seminar Series

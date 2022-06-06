@@ -13,10 +13,10 @@ My group is currently recruiting MS/BS students in Computer Science/Biostatistic
 * The candidate should have strong programming skills.
 * Maintain good GPA in statistics/machine learning/computing courses.
 
-If you are interested in the position, please send your CV and transcripts to the [email](qsong@wakehealth.edu) with email title "MS/BS application"
+If you are interested in the position, please send your CV and transcripts to the email：qsong@wakehealth.edu with email title "MS/BS application"
 
 ### Research Assistant/Intern 
-My group is also recruiting RA and Interns. If you are interested in the position, please send your CV and transcripts to the [email](qsong@wakehealth.edu) with email title "RA/Intern application"
+My group is also recruiting RA and Interns. If you are interested in the position, please send your CV and transcripts to the email： qsong@wakehealth.edu with email title "RA/Intern application"
 
 
 

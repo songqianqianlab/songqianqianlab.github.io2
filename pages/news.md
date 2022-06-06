@@ -24,7 +24,7 @@ description: Lab's news
 
 * (01/2022) Our paper "Intrapleural nano-immunotherapy promotes innate and adaptive immune responses to enhance anti-PD-L1 therapy for malignant pleural effusion. " has been accepted. Congratulations to the authors. [[paper]](https://www.nature.com/articles/s41565-021-01032-w)
 
-* (01/2022) Our paper "Single-Cell RNA-Seq Technologies and Computational Analysis Tools: Application in Cancer Research. " has been accepted. Congratulations to the authors. [[paper]]((https://link.springer.com/protocol/10.1007/978-1-0716-1896-7_23)
+* (01/2022) Our paper "Single-Cell RNA-Seq Technologies and Computational Analysis Tools: Application in Cancer Research. " has been accepted. Congratulations to the authors. [[paper]](https://link.springer.com/protocol/10.1007/978-1-0716-1896-7_23)
 
 * (01/2022) Our paper "Flap endonuclease 1 Facilitated Hepatocellular Carcinoma Progression by Enhancing USP7/MDM2-mediated P53 Inactivation." has been accepted by International journal of biological sciences. Congratulations to the authors. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8771828/)
 

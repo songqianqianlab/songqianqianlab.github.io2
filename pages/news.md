@@ -28,6 +28,13 @@ description: Lab's news
 
 * (01/2022) Our paper "Flap endonuclease 1 Facilitated Hepatocellular Carcinoma Progression by Enhancing USP7/MDM2-mediated P53 Inactivation." has been accepted by International journal of biological sciences. Congratulations to the authors. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8771828/)
 
+
+
+
+
+
+
+
 ### INVITED PRESENTATIONS
 * (2022) “Data-driven Informatics Research for Precision Oncology". The University of Alabama at Birmingham, Informatics Institute PowerTalk Seminar Series
 * (2021) “Real World Data to Empower Observational Research: an N3C and OMOP use case” Wake Forest Center for Biomedical Informatics Colloquium

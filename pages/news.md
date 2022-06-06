@@ -38,11 +38,9 @@ description: Lab's news
 
 * (11/2021)Our paper "Identification and validation of ubiquitin-specific proteases as a novel prognostic signature for hepatocellular carcinoma." has been accepted. Congratulations to the authors. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7949004/)
 
-* (09/2021)Our paper "Flexible Principal Component Analysis for Exponential Family Distributions." has been accepted. Congratulations to the authors. [[paper]]([https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8771828/](https://arxiv.org/abs/2108.06876))
+* (09/2021)Our paper "Flexible Principal Component Analysis for Exponential Family Distributions." has been accepted. Congratulations to the authors. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8771828/](https://arxiv.org/abs/2108.06876)
 
-* (09/2021)Our paper "DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence." has been accepted. Congratulations to the authors. [[paper]]([https://academic.oup.com/bib/article/22/5/bbaa414/6105942?login=false))
-
-* (08/2021)Our paper "Flexible Principal Component Analysis for Exponential Family Distributions." has been accepted. Congratulations to the authors. [[paper]](https://arxiv.org/abs/2108.06876)
+* (09/2021)Our paper "DSTG: deconvoluting spatial transcriptomics data through graph-based artificial intelligence." has been accepted. Congratulations to the authors. [[paper]](https://academic.oup.com/bib/article/22/5/bbaa414/6105942?login=false)
 
 * (08/2021)Our paper "Organoids: Current Implications and Pharmaceutical Applications in Liver Diseases." has been accepted. Congratulations to the authors. [[paper]](https://www.ingentaconnect.com/content/ben/cmp/2021/00000014/00000004/art00005)
 
